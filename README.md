@@ -1,5 +1,5 @@
 # BTL_KHDL
-# Họ tên: Nguyễn Thành Nguyên
+- Họ tên: Nguyễn Thành Nguyên
 # MSV: k215480106115
 # Lớp: K57KMt
 # Tên đề tài: Phân loại hình ảnh chữ viết tay
